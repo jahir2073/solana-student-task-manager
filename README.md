@@ -292,4 +292,4 @@ Solana Student Task Manager fue desarrollado como una solución práctica para o
 
 # Autor
 
-Jahir Emmanuel sanchez marin 
+Jahir Emmanuel Sanchez Marin 
