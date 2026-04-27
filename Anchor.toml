@@ -1,0 +1,11 @@
+[features]
+seeds = true
+
+[programs.devnet]
+student_task_manager = "11111111111111111111111111111111"
+
+[provider]
+cluster = "Devnet"
+
+[scripts]
+test = "echo test"
